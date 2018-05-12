@@ -1,0 +1,32 @@
+_repo: Married-LifeThe-True-Romance_15738
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edginton, May
+    aliases:
+    - Edginton, Helen Marion
+    - Edington, May
+    birthdate: 1883
+    deathdate: 1957
+    gutenberg_agent_id: '6239'
+    url: http://www.gutenberg.org/2009/agents/6239
+    wikipedia: http://en.wikipedia.org/wiki/May_Edginton
+description: ''
+gutenberg_issued: '2005-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15738'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Married people -- Fiction'
+title: 'Married Life
+
+  The True Romance'
+url: http://www.gutenberg.org/ebooks/15738
